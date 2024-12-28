@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "6765c225c43f7ea5dc7af075"
+  },
+  "title": "Sample Quiz",
+  "questions": [
+    {
+      "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds . If the speed of the train is 54 km/hr, what is the length of the platform?",
+      "options": [
+        "120 m",
+        "240 m",
+        "300 m",
+        "None of these"
+      ],
+      "answer": "240 m",
+      "explanation": "The train covers the length of the platform and its own length in 36 seconds and only its own length in 20 seconds. Using the train's speed (54 km/h = 15 m/s) and the time difference, we calculate the platform's length.",
+      "_id": {
+        "$oid": "6765c225c43f7ea5dc7af076"
+      }
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Lisbon"
+      ],
+      "answer": "Paris",
+      "explanation": "Paris is the capital city of France.",
+      "_id": {
+        "$oid": "6765c225c43f7ea5dc7af077"
+      }
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "answer": "Mars",
+      "explanation": "Mars is often called the Red Planet due to its reddish appearance.",
+      "_id": {
+        "$oid": "6765c225c43f7ea5dc7af078"
+      }
+    },
+    {
+      "question": "Who wrote \"Hamlet\"?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain",
+        "Jane Austen"
+      ],
+      "answer": "William Shakespeare",
+      "explanation": "\"Hamlet\" was written by William Shakespeare.",
+      "_id": {
+        "$oid": "6765c225c43f7ea5dc7af079"
+      }
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "H2O",
+        "O2",
+        "CO2",
+        "HO2"
+      ],
+      "answer": "H2O",
+      "explanation": "The chemical formula for water is H2O.",
+      "_id": {
+        "$oid": "6765c225c43f7ea5dc7af07a"
+      }
+    }
+  ],
+  "__v": 0
+}]
